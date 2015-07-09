@@ -3,7 +3,7 @@ Contributors: tikendramaitry, rahulbrilliant2004
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=wpfruits@gmail.com&item_name=Like%20Dislike%20Counter%20Lite&item_number=WordPress.org%20Donation&currency_code=USD&lc=US
 Tags: like counter, dislike counter,like, dislike, most liked posts and comments, recently liked posts and comments, thumbs down, thumbs up, like dislike page, like dislike post, like dislike comments
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.2.2
 Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
